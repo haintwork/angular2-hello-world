@@ -23,7 +23,7 @@ System.register(["angular2/platform/browser", "angular2/core"], function(exports
         execute: function() {
             HelloWorld = (function () {
                 function HelloWorld() {
-                    this.names = ["Hai", "Dung", "Hau", "Ba", "Me"];
+                    this.names = ["Hai", "Dung", "Hau", "Ba", "Me", "Ong"];
                 }
                 HelloWorld = __decorate([
                     core_1.Component({

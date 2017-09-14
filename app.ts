@@ -13,7 +13,7 @@ import { NgFor }  from "angular2/common";
 class HelloWorld {
   names: string[];
   constructor(){
-    this.names = ["Hai", "Dung", "Hau", "Ba", "Me"];
+    this.names = ["Hai", "Dung", "Hau", "Ba", "Me", "Ong"];
   }
 }
 
